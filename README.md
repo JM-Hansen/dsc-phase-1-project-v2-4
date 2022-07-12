@@ -55,13 +55,15 @@ The Numbers is a film industry data website that tracks box office revenue in a 
 
 ### Three Visualizations
 
-images/scatter_budget_revenue.png
 
 images/scatter_budget_revenue.png
+
+images/median_budget_cost.png
 
 images/movie_month.png
 
 images/movie_minutes.png
+
 
 ### Conclusion
 
