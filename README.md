@@ -56,16 +56,21 @@ The Numbers is a film industry data website that tracks box office revenue in a 
 ### Three Visualizations
 
 
-images/scatter_budget_revenue.png
 
-images/median_budget_cost.png
 
-images/movie_month.png
+![scatter_budget_revenue-Copy1](https://user-images.githubusercontent.com/104652254/178409291-8bb2d52f-e93a-4f4b-bad0-f2d07e2be079.png)
 
-images/movie_minutes.png
+![median_budget_cost-Copy1](https://user-images.githubusercontent.com/104652254/178409330-343f3243-9552-41db-bf6a-7598f2ec6644.png)
+
+![movie_month-Copy1](https://user-images.githubusercontent.com/104652254/178409478-92b2e148-fd63-4337-b565-0a7c5cf0f82f.png)
+
+![movie_minutes-Copy1](https://user-images.githubusercontent.com/104652254/178409521-42955208-8245-41fe-8fa4-3578ae18edf2.png)
+
+
 
 
 ### Conclusion
+
 
 * For the top 50 films per year the median production budget was USD 75 million, most films budgets ranged between USD 40 to 140 million. These costs reflect a median of 26% of revenue but can vary between 17-39%. 
 
