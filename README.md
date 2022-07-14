@@ -67,6 +67,12 @@ The Numbers is a film industry data website that tracks box office revenue in a 
 ![movie_minutes-Copy1](https://user-images.githubusercontent.com/104652254/178409521-42955208-8245-41fe-8fa4-3578ae18edf2.png)
 
 
+### Navigating Repository
+
+*Inside this repository is a jupyter notebook with all code, comments, and markdown. There is also a pdf that you can examine without having to open a jupyter notebook.
+*The three databases that the notebook relies on are also available in the main repo directory. 
+*The repo also contains images directly related to the business recommendations. They are also posted above in this readme.md.
+*Finally, this repo contains a presentation pdf of slides that lays out the business context and recommendations to Microsoft executive to support them in their decision to break into the movie business. 
 
 
 ### Conclusion
