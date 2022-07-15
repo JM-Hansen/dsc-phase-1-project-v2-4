@@ -55,8 +55,13 @@ The Numbers is a film industry data website that tracks box office revenue in a 
 
 ### Four Visualizations
 
+![scatter_budget_revenue-Copy1](https://user-images.githubusercontent.com/104652254/179293290-0da281ae-9587-411c-9421-56cff9ddaab1.png)
 
+![median_budget_cost-Copy1](https://user-images.githubusercontent.com/104652254/179293311-808be293-392b-4a08-9c1b-c77243e520e5.png)
 
+![movie_month-Copy1](https://user-images.githubusercontent.com/104652254/179293329-ec56a21d-3d6d-4637-8c89-c9b4636b5ed1.png)
+
+![movie_minutes-Copy1](https://user-images.githubusercontent.com/104652254/179293338-b638610c-33b1-4e88-a034-54ce9bae65fc.png)
 
 
 ### Navigating Repository
